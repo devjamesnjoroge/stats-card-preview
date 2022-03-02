@@ -89,3 +89,9 @@ body {
   z-index: 99;
   margin-left: 35vw;
 }
+
+@media screen and (max-width: 1215px) {
+  .container {
+    display: none;
+  }
+}
